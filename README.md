@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data visualization** so I can visualize the data I've collected on my daily habits!
 
-- 👨‍💻 All of my projects are available at [https://thomaswright.netlify.app/](thomaswright.netlify.app)
+- 👨‍💻 All of my projects are available at [thomaswright.netlify.app](https://thomaswright.netlify.app/)
 
 - 💬 Ask me about **my phone automation projects or my current app, Bird Branch!**
 

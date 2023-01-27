@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A full stack developer who loves design and bright colors!</h3>
 
-- 🔭 I’m currently working on **Bird Branch**, an app for bird watchers!
+- 🔭 I’m currently working on **Feather Trace**, an app for bird watchers!
 
 - 🌱 I’m currently learning **Data visualization** so I can visualize the data I've collected on my daily habits!
 

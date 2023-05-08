@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A full stack developer who loves design and bright colors!</h3>
+<h3 align="center">A full stack developer who loves design and bold colors</h3>
 
-- 🔭 I’m currently working on **Feather Trace**, an app for bird watchers!
+- 🔭 I’m currently working on **Feather Trace**, an app for bird lovers.
 
-- 🌱 I’m currently learning **Data visualization** so I can visualize the data I've collected on my daily habits!
+- 🌱 I’m currently learning **Data visualization**.
 
-- 👨‍💻 All of my projects are available at [thomaswright.netlify.app](https://thomaswright.netlify.app/)
+- 👨‍💻 Check out some of my projects in my portfolio at [thomaswright.netlify.app](https://thomaswright.netlify.app/)
 
-- 💬 Ask me about **my phone automation projects or my current app, Bird Branch!**
+- 💬 Ask me about **my phone automation projects or my website FeatherTrace!**
 
 - ⚡ Fun fact **I make my own biltong, a dried South African meat snack. Here's my process: biltong-recipe.netlify.app**
 
